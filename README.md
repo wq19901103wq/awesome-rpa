@@ -181,6 +181,7 @@ Please see [CONTRIBUTING](https://github.com/rpabotsworld/awesome-rpa/blob/maste
  - [Microsoft Power Platform Connectors](https://github.com/microsoft/PowerPlatformConnectors) - Microsoft Power Platform Connectors open source repository
  - [Robotic Process Automation with Automation Anywhere](https://github.com/PacktPublishing/Robotic-Process-Automation-with-Automation-Anywhere) - This is the code repository for Robotic Process Automation with Automation Anywhere, published by Packt.
  - [RPA Framework by Robocorp](https://github.com/robocorp/rpaframework)- RPA Framework is a collection of open-source libraries and tools for Robotic Process Automation (RPA), and it is designed to be used with both Robot Framework and Python.
+ - [wechat-mac-rpa](https://github.com/wq19901103wq/wechat-mac-rpa) - Visual AI agent for macOS WeChat automation using multimodal LLM and visual perception. No protocol reverse engineering or database access — uses AI vision to "see" and auto-reply to WeChat messages.
 
 ## Books 
 *List of Known Books .*
